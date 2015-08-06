@@ -1,0 +1,39 @@
+h1 {
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+   color: black;
+   font-size: 40px;
+   padding-top: 20px;
+   text-align: center;
+   letter-spacing: -.5px;
+   width: 40%;
+   margin:auto;
+}
+#textcontainer {
+   width: 40%;
+   margin: auto;
+}
+p {
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 400;
+   color: black;
+   font-size: 15px;
+   text-align: center;
+   letter-spacing: 0px;
+   line-height: 15px;
+
+}
+#arrow{
+   position: fixed;
+   position: left;
+   text-align: left;
+   font-size: 30px;
+}
+#imagecontainer {
+   width: 40%;
+   margin: auto;
+   padding-top: 30px;
+}
+img {
+   width: 100%;
+}
