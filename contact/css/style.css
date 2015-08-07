@@ -24,8 +24,8 @@ footer div{
    margin-left: -5%;
 }
 #imagecontainer {
-   width: 30%;
-   padding-right: 30%;
+   width: 40%;
+   padding-right: 17%;
    margin: auto;
 
 }
@@ -34,7 +34,7 @@ h2 {
    font-family: 'Montserrat', sans-serif;
    font-weight: 400;
    color: rgba(0,0,0,.8);
-   font-size: 30px;
+   font-size: 20px;
    text-align: center;
    letter-spacing: -1px;
    width: 80%;
