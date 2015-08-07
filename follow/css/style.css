@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+body {
+   background-color: white;
+}
+
+h1 {
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+   color: rgba(0,0,0,.8);
+   font-size: 50px;
+   margin-top: 20%;
+   margin-bottom: 45%;
+   text-align: center;
+   letter-spacing: -1px;
+   padding-bottom: 60px;
+}
+
+footer div{
+   position: fixed; bottom: 0; width:100%; text-align: center;
+   font-size: 30px;
+   color: rgba(0,0,0,.8);
+}
+#imagecontainer {
+   width: 30%;
+   margin: auto;
+
+}
+
+img {
+   width: 30%;
+   float:right;
+   margin-bottom: 300px;
+
+}
+
+img:hover {
+   opacity: .7;
+}
