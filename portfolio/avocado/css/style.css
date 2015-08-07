@@ -37,11 +37,9 @@ p {
 #imagecontainer {
    width: 35%;
    margin: auto;
-   padding-top: -100px;
 
 }
 
 img {
    width: 100%;
-   float:right;
 }
