@@ -25,6 +25,7 @@ h2 {
 #categories {
    width: 20%;
    padding-left: 20px;
+   padding-top: 20px;
 }
 footer div{
    position: fixed; bottom: 0; width:100%; text-align: center;
